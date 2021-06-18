@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#form-container {
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#form-title {
+    color: blue;
+    font-size: 3.1rem;
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    margin: auto;
+}
+
+#second-title{
+    text-align: center;
+}
+#thirt-title{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+#main-form{
+    background-color: white;
+    width: 380px;
+    margin:auto ;
+    border-radius: 5px 5px 0px 0px;
+}
+#second-form{
+    background-color: white;
+    width: 380px;
+    height: 400px;
+    margin: auto;
+    margin-top: 1px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+
+ #ad{
+    
+    padding: 5px;
+    width: 170px;
+    margin:10px 8px 8px 10px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.1);
+    font-size:15px;
+    
+}
+#soyad{
+    
+    padding: 5px;
+    width: 170px;
+    margin:10px 10px 8px 4px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.1);
+    font-size:15px;
+    
+} 
+#tel {
+    padding: 5px;
+    width: 360px;
+    margin: 5px 10px;
+    
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+}
+#password{
+    padding: 5px;
+    width: 360px;
+    margin: 5px 10px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+}
+#date{
+    margin-left: 10px;
+}
+.all{
+    margin-left: 10px;
+    width: 110px;
+    border-color: rgba(0, 0, 0, 0.3);
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.4) ;
+    padding: 5px;
+}
+#genderx{
+    margin-left: 10px;
+    width: 380px;
+    margin: 10px 20px; 
+    font-size: 15px;
+}
+#gendery{
+    margin-left: 10px;
+    width: 380px;
+    margin: 10px 20px; 
+    font-size: 15px;
+}
+#genderz{
+    margin-left: 10px;
+    width: 380px;
+    margin: 10px 20px; 
+    font-size: 15px;
+}
+#cinsiyet{
+    margin-left: 10px;
+}
+
+p{
+    font-size: 10px;
+    margin: 10px;
+}
+#form-button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-size: 1rem;
+    cursor:pointer;
+
+}
+#form-submit{
+    width: 150px;
+    margin: auto;
+    
+}
